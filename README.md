@@ -175,7 +175,7 @@ npm start
 
 ## Project Structure
 
-`text
+
 investment-thesis/
 ├── frontend/                 # React application
 │   ├── src/
@@ -191,7 +191,7 @@ investment-thesis/
 │   ├── app.py               # Flask + Groq + PDF
 │   └── requirements.txt     # Python dependencies
 └── README.md
-`
+
 
 ## Usage Guide
 
